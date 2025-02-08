@@ -1,4 +1,5 @@
 import streamlit as st
+import sklearn
 
 
 # train a model for Iris classification
